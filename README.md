@@ -10,6 +10,4 @@ Sert first name alpha
 select last name alpha
 set email address
 select gender
-click on continue
-exepcted results 
-actual resutls 
+
